@@ -13,7 +13,7 @@ I design enterprise B2B and SaaS products and take them further than the Figma f
 | Project | What it is | Links |
 |---|---|---|
 | **Timeflow** | AI timesheet assistant that reconstructs your workday from calendar signals, so you review time instead of logging it. Solo, end-to-end: research, design system, UI, full-stack app with Google Calendar OAuth. | [Case study](https://bllondis.github.io/portfolio-site/cases/timeflow.html) · [Code](https://github.com/bllondis/timeflow-app) · [Live](https://timeflow-assistant-main.vercel.app/) |
-| **Wafel** | Mobile app for learning Dutch at B1–B2 level: short lessons built around real phrases, flashcards and quizzes. Expo / React Native, token-driven theming. | [Code](https://github.com/bllondis/DutchWaffle) · [Live demo](https://bllondis.github.io/DutchWaffle/) |
+| **DutchWaffle** | Mobile app for learning Dutch at B1–B2 level: short lessons built around real phrases, flashcards and quizzes. Expo / React Native, token-driven theming. | [Code](https://github.com/bllondis/DutchWaffle) · [Live demo](https://bllondis.github.io/DutchWaffle/) |
 | **TeD Design System** | Design system for a project management product, from Figma variables to typed React components. | [Code](https://github.com/bllondis/ted-design-system) |
 | **Portfolio site** | My portfolio with interactive case-study navigation. Vite + React, deployed with GitHub Actions. | [Code](https://github.com/bllondis/portfolio-site) · [Live](https://bllondis.github.io/portfolio-site/) |
 
