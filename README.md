@@ -16,6 +16,7 @@ I design enterprise B2B and SaaS products and take them further than the Figma f
 | **DutchWaffle** | Mobile app for learning Dutch at B1–B2 level: short lessons built around real phrases, flashcards and quizzes. Expo / React Native, token-driven theming. | [Code](https://github.com/bllondis/DutchWaffle) · [Live demo](https://bllondis.github.io/DutchWaffle/) |
 | **TeD Design System** | Design system for a project management product, from Figma variables to typed React components. | [Code](https://github.com/bllondis/ted-design-system) |
 | **Design to production** | My portfolio built on my own design system: Figma variables → three tiers of DTCG tokens → React components in Storybook → Astro site, with accessibility, visual regression tests and CI. | [Code](https://github.com/bllondis/design-to-production) · [Live](https://tetiana-dovgalenko-portfolio.fairyorbit11.chatgpt.site) |
+| **Portfolio site** | My portfolio with interactive case-study navigation. Vite + React, deployed with GitHub Actions. | [Code](https://github.com/bllondis/portfolio-site) · [Live](https://bllondis.github.io/portfolio-site/) |
 
 ---
 
