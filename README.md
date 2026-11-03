@@ -15,14 +15,14 @@ I design enterprise B2B and SaaS products and take them further than the Figma f
 | **Timeflow** | AI timesheet assistant that reconstructs your workday from calendar signals, so you review time instead of logging it. Solo, end-to-end: research, design system, UI, full-stack app with Google Calendar OAuth. | [Case study](https://bllondis.github.io/portfolio-site/cases/timeflow.html) · [Code](https://github.com/bllondis/timeflow-app) · [Live](https://timeflow-assistant-main.vercel.app/) |
 | **DutchWaffle** | Mobile app for learning Dutch at B1–B2 level: short lessons built around real phrases, flashcards and quizzes. Expo / React Native, token-driven theming. | [Code](https://github.com/bllondis/DutchWaffle) · [Live demo](https://bllondis.github.io/DutchWaffle/) |
 | **TeD Design System** | Design system for a project management product, from Figma variables to typed React components. | [Code](https://github.com/bllondis/ted-design-system) |
-| **Portfolio site** | My portfolio with interactive case-study navigation. Vite + React, deployed with GitHub Actions. | [Code](https://github.com/bllondis/portfolio-site) · [Live](https://bllondis.github.io/portfolio-site/) |
+| **Design to production** | My portfolio built on my own design system: Figma variables → three tiers of DTCG tokens → React components in Storybook → Astro site, with accessibility, visual regression tests and CI. | [Code](https://github.com/bllondis/design-to-production) · [Live](https://tetiana-dovgalenko-portfolio.fairyorbit11.chatgpt.site) |
 
 ---
 
 ### How I work
 
 - **Design** – Figma, design systems and tokens, UX research, JTBD, accessibility (WCAG AA)
-- **Build** – React, TypeScript, Tailwind, shadcn/ui, Expo / React Native, Storybook, Supabase, Vercel
+- **Build** – React, TypeScript, Tailwind, shadcn/ui, Expo / React Native, Astro, Storybook, Style Dictionary, Playwright, Supabase, Vercel
 - **AI-assisted workflow** – Claude Code, Cursor, Codex, Antigravity, Figma MCP. I direct, review and ship – AI writes much of the code, I own the decisions.
 
 Open to Product Designer and Design Engineer roles in the Netherlands.
